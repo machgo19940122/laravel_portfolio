@@ -19,3 +19,6 @@ Route::get('/', function () {
 
 //ホーム画面の表示
 Route::get('/home',function(){return view('home');})->name('home');
+
+//ホーム画面からの問い合わせ処理
+Route::post('/home', [App\Http\Controllers\ContactsController::class,'postcontact'])->name('postcontact');

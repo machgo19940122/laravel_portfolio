@@ -16,7 +16,11 @@
 <script src="https://kit.fontawesome.com/0ee9da3264.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>  
-
+  <!-- フラッシュメッセージCSS -->
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
 <!-- mainjs -->
 <script src="{{ asset('/js/main.js') }}"></script>
 
@@ -53,6 +57,7 @@
     </div>
   </nav>
     
+    
   <!-- メインイメージ -->
      
       <header id="header">
@@ -60,6 +65,14 @@
       </header>
 
 <main>
+    <!-- フラッシュメッセージ -->
+    <script>
+            @if (session('flash_message_1'))
+                $(function () {
+                               toastr.success('{{ session('flash_message_1') }}'); });
+           @endif
+       </script>
+
   <div id="container">
           <div class="profile_container">
             <div class="about_me" id="aboutme">
@@ -255,7 +268,7 @@
             
             <!-- Left contact page --> 
               
-              <form id="contact-form" class="form-horizontal m-auto" role="form">
+              <form id="contact-form" class="form-horizontal m-auto"  method="POST" action="{{ route('postcontact') }}">
                  
                 <div class="mb-3 form-group">
                   <input type="text" class="form-control" id="name" placeholder="NAME" name="name" value="" required>
@@ -267,13 +280,14 @@
                 </div>
           
                 <div class="mb-3 form-group">
-                    <textarea class="form-control" rows="10" placeholder="MESSAGE" name="message" required></textarea>
+                    <textarea class="form-control" rows="10" placeholder="MESSAGE" name="comment" required></textarea>
                 </div>
   
                 
                 <button class="btn btn-primary send-button mb-5" id="submit" type="submit" value="SEND">
                     <i class="fa fa-paper-plane"></i><span class="send-text"></span>
                 </button>
+                {{ csrf_field() }}
                 
               </form>
             </div>
