@@ -23,6 +23,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+                  //heroku
+                  if(\App::environment(['production'])){
+                    \URL::forceScheme('https');
+                  }
     }
 }
