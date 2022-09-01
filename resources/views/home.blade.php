@@ -12,7 +12,6 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 <!-- css_file -->
 <link rel="stylesheet" href="{{asset('/css/style.css')}}">
-<!-- <link href="{{ mix('css/style.css') }}" rel="stylesheet"> -->
 
 <!-- fontawsome -->
 <script src="https://kit.fontawesome.com/0ee9da3264.js" crossorigin="anonymous"></script>
