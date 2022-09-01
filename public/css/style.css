@@ -313,6 +313,8 @@ mainのスクロール */
 }
 
 
+
+
 /*========= レイアウトのためのCSS ===============*/
 
 
@@ -333,7 +335,7 @@ mainのスクロール */
   height: 100vh;
   /*背景画像設定*/
   background-image: url(/storage/0402FC2A-D2E1-43DB-B40B-FF2C1CDF50FF_1_105_c.jpeg);
-  background-size:cover;
+  background-size:100%;
 }
 
 #container{
