@@ -13,6 +13,7 @@
 <!-- css_file -->
 <link rel="stylesheet" href="{{asset('/css/style.css')}}">
 
+
 <!-- fontawsome -->
 <script src="https://kit.fontawesome.com/0ee9da3264.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
