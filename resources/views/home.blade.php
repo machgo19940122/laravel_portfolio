@@ -11,7 +11,9 @@
 <!-- bootstrap -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 <!-- css_file -->
-<link rel="stylesheet" href="{{asset('/css/style.css')}}">
+<!-- <link rel="stylesheet" href="{{asset('/css/style.css')}}"> -->
+<link href="{{ mix('css/app.css') }}" rel="stylesheet">
+
 <!-- fontawsome -->
 <script src="https://kit.fontawesome.com/0ee9da3264.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
