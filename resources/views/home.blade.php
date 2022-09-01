@@ -206,14 +206,14 @@
                       <h2>portfolio</h2>
                       <li>
                         <div class="container border">
-                          <img src="../img/スクリーンショット 2022-08-28 11.10.23.png" class="img-fluid" alt="">
+                          <img src="" class="img-fluid" alt="">
                          </div>
                       </li>
   
                     </ul>
                       <div class="row">
-                            <div class="col-6"><a href="" class="btn btn-border">Git_hub</a></div>
-                            <div class="col-6"><a href="" class="btn btn-border">Web_site</a></div>
+                            <div class="col-6"><a href="" class="btn btn-border p-2">Git_hub</a></div>
+                            <div class="col-6"><a href="http://127.0.0.1:8001/home#work" class="btn btn-border p-2">Web_site</a></div>
                       </div>
                 </div>
   
@@ -227,8 +227,8 @@
                     </li>
                   </ul>
                   <div class="row">
-                    <div class="col-6"><a href="" class="btn btn-border">Git_hub</a></div>
-                    <div class="col-6"><a href="" class="btn btn-border">Web_site</a></div>
+                    <div class="col-6"><a href="" class="btn btn-border p-2">Git_hub</a></div>
+                    <div class="col-6"><a href="http://wish-and-todo.herokuapp.com/login" class="btn btn-border p-2">Web_site</a></div>
               </div>
                 </div>
   
@@ -242,8 +242,8 @@
                     </li>
                   </ul>
                   <div class="row">
-                    <div class="col-6"><a href="" class="btn btn-border">Git_hub</a></div>
-                    <div class="col-6"><a href="" class="btn btn-border">Web_site</a></div>
+                    <div class="col-6"><a href="" class="btn btn-border p-2">Git_hub</a></div>
+                    <div class="col-6"><a href="https://team95-expense-application.herokuapp.com/" class="btn btn-border p-2">Web_site</a></div>
               </div>
   
                   
