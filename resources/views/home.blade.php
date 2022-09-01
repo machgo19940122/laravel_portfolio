@@ -59,6 +59,10 @@
   <!-- メインイメージ -->
      
       <header id="header">
+     
+          <div class="mainword">初めまして。権藤
+            です。
+          </div>
         <div class="scrolldown2"><span>Scroll</span></div>
       </header>
 
