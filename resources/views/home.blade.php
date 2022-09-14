@@ -59,10 +59,6 @@
   <!-- メインイメージ -->
      
       <header id="header">
-     
-          <div class="mainword">初めまして。権藤
-            です。
-          </div>
         <div class="scrolldown2"><span>Scroll</span></div>
       </header>
 
@@ -76,6 +72,13 @@
        </script>
 
   <div id="container">
+
+          <div class="pt-5">
+                  <h1>it's nice to connect with you! </h1>
+                  <h6>machiko gondo</h6>
+          </div>          
+
+
           <div class="profile_container">
             <div class="about_me" id="aboutme">
                <div class="pt-5">
@@ -87,18 +90,15 @@
                   <h3>-school-</h3>
               
                   <div class="txt-show-1 text-groups max-width50">
-                          
-                          はじめまして。平成5年生まれの25歳エンジニアのなおと(@naoto_7713)と申します。社会人歴（IT業界）4年目です。
-                          
+                          はじめまして。権藤真知子です。1994年生まれ、兵庫県出身です。
                   </div>
                         
-                        <div class="txt-hide-1 max-width50">
-                          新卒では中小企業のSIerに入社しました。常駐先ではウォータフォール型でデスクトップアプリ開発に携わりました。1年目は開発、2年目は問い合わせ対応と業務効率化のツールを作成です。 
-                          ただ、自分で勉強していくうちにもっと開発をしたい。Webに携わりたいと思い転職を決意。
-                          web系の自社開発に入社し、現在はフルスタックエンジニアとして働いております。直近でフロントはSPAで実装して、バックエンドはAPI開発です。（2018年8月12日更新）
-                          </div>
+                  <div class="txt-hide-1 max-width50">
+                          高校までは、兵庫県で過ごしました。中学と高校では、バレーボール部に所属していました。大学は、大分県別府市の立命館アジア太平洋大学に進学。アジア太平洋学部で、観光学を中心に学びました。第二外国語として中国語を選択し、３ヶ月上海に語学留学をしました。その後、１年休学しアイルランドへワーキングホリデーに行きました。
+                          海外での生活を得て、made in japanの丁寧な仕事で、世界の人の生活を快適に・便利にしたいという気持ちが出てきました。
+                   </div>
   
-                        <button class="more-1"></button>
+                   <button class="more-1"></button>
              
   
               </div>
@@ -108,14 +108,14 @@
                   <h3>-work-</h3>
               
                         <div class="txt-show-2 max-width50">
-                          はじめまして。平成5年生まれの25歳エンジニアのなおと(@naoto_7713)と申します。社会人歴（IT業界）4年目です。
+                         新卒で、SPI企業。2社目では、製造業企業に勤めました。
                         </div>
                         
                         <div class="txt-hide-2 max-width50">
-                          新卒では中小企業のSIerに入社しました。常駐先ではウォータフォール型でデスクトップアプリ開発に携わりました。1年目は開発、2年目は問い合わせ対応と業務効率化のツールを作成です。 ただ、自分で勉強していくうちにもっと開発をしたい。Webに携わりたいと思い転職を決意。
-                          web系の自社開発に入社し、現在はフルスタックエンジニアとして働いております。直近でフロントはSPAで実装して、バックエンドはAPI開発です。（2018年8月12日更新）
-                          </div>
-  
+                          服を通して人の生活を快適に・便利にしたいという気持ちと、企画〜販売までのモノと情報の流れを１社で学べることから、ユニクロに就職を決めました。店舗でのセルフレジ導入などを得て、システムに興味を持ちました。</br>20代のうちに仕組みを導入する仕事を経験したいと思い、2社目の製造業テクダイヤ株式会社に転職をしました。ERPの導入を行い、ITの知識を深堀したいと思いました。
+                      
+                        </div>
+
                         <button class="more-2"></button>
                     
               </div>
@@ -127,13 +127,12 @@
                   <h3>-now-</h3>
               
                         <div class="txt-show-3 max-width50">
-                          はじめまして。平成5年生まれの25歳エンジニアのなおと(@naoto_7713)と申します。社会人歴（IT業界）4年目です。
+                          2021年の秋に会社を退職し、プログラミングの勉強を始めました。
                         </div>
                         
                         <div class="txt-hide-3 max-width50">
-                          新卒では中小企業のSIerに入社しました。常駐先ではウォータフォール型でデスクトップアプリ開発に携わりました。1年目は開発、2年目は問い合わせ対応と業務効率化のツールを作成です。 ただ、自分で勉強していくうちにもっと開発をしたい。Webに携わりたいと思い転職を決意。
-                          web系の自社開発に入社し、現在はフルスタックエンジニアとして働いております。直近でフロントはSPAで実装して、バックエンドはAPI開発です。（2018年8月12日更新）
-                          </div>
+                          全くの未経験でしたが、新しいことを学ぶことは非常に楽しい時間でした。2022年にはスクールに入校し、個人で進めるカリキュラムだけでなく、チーム開発を経験することもできました。今までの自分の経験と、学んだ知識を掛け算し、自分のキャリアを再スタートさせたいと思っています。
+                        </div>
   
                         <button class="more-3"></button>
                     
@@ -144,12 +143,13 @@
                 <h3>-hobby-</h3>
             
                       <div class="txt-show-4 max-width50">
-                        はじめまして。平成5年生まれの25歳エンジニアのなおと(@naoto_7713)と申します。社会人歴（IT業界）4年目です。
+                        コロナ禍で、出かける機会も減りました。それでも、毎年冬には必ずスノボーに行きます。
+                      
                       </div>
                       
                       <div class="txt-hide-4 max-width50">
-                            趣味の写真です。
-                           
+                        プリンが好きなのでプリンを目的に喫茶店を巡っています。関東では15ヶ所程巡ったので、関西でも継続中です。</br>
+                        コロナ禍で始めたのは、ipadで絵を描いたり、イラレでデザインを作ったりすることです。
                       </div>
 
                       <button class="more-4"></button>
@@ -226,7 +226,7 @@
                     <h2>wish and todo list</h2>
                     <li>
                       <div class="container border">
-                        <img src="../img/スクリーンショット 2022-08-31 9.04.50.png" class="img-fluid" alt="">
+                        <img src="" class="img-fluid" alt="">
                        </div>
                     </li>
                   </ul>
@@ -241,16 +241,14 @@
                     <h2>expense system</h2>
                     <li>
                       <div class="container border">
-                        <img src="../img/スクリーンショット 2022-08-28 11.19.08.png" class="img-fluid" alt="">
+                        <img src="" class="img-fluid" alt="">
                        </div>
                     </li>
                   </ul>
                   <div class="row">
                     <div class="col-6"><a href="" class="btn btn-border p-2">Git_hub</a></div>
-                    <div class="col-6"><a href="https://team95-expense-application.herokuapp.com/" class="btn btn-border p-2">Web_site</a></div>
-              </div>
-  
-                  
+                    <div class="col-6"><a href="" class="btn btn-border p-2">Web_site</a></div>
+                  </div>
                 </div>
   
               </div>
@@ -300,9 +298,11 @@
         </div>
       </main>
   
-      <footer class="footer border">
+      <footer class="footer border pt-5 text-secondary
+
+">
       
-            <p>machiko gondo</p>
+            <h6>thanks...</h6>
         
   
       </footer>
