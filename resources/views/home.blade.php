@@ -210,11 +210,15 @@
                 <div class="col-6">
                     <ul>
                       <h2>portfolio</h2>
+                     
+                  
                       <li>
                         <div class="container-sm border">
                         <img src="{{ asset('storage/スクリーンショット 2022-09-14 11.41.20.png') }}"" class="img-fluid" alt="">
                          </div>
                       </li>
+
+                      <li><h6 class="mt-3">少しでも自分のことを知ってもらう機会になれば嬉しいです。</h6></li>
   
                     </ul>
                       <div class="row">
@@ -226,11 +230,14 @@
                 <div class="col-6">
                    <ul>
                      <h2>Expense  Management System</h2>
+
                      <li>
                         <div class="container-sm border">
                             <img src="{{ asset('/storage/スクリーンショット 2022-09-14 11.45.06.png') }}"" class="img-fluid" alt="">
                         </div>
                     </li>
+
+                    <li><h6 class="mt-3">スクールの受講生でチームを組み、アイデアを出すところからテストまで実施しました。企業で使用する経費申請・承認ができる管理アプリです。パソコンで使用することを想定しています。</h6></li>
                   </ul>
 
                   <div class="row">
@@ -245,11 +252,15 @@
                 <div class="col-6 mt-5">
                   <ul>
                     <h2>wish and todo</h2>
+
                     <li>
                       <div class="container-sm border">
                       <img src="{{ asset('/storage/スクリーンショット 2022-09-14 11.46.28.png') }}" class="img-fluid" alt="">
                        </div>
                     </li>
+
+                    <li><h6 class="mt-3">自主制作をしたアプリです。日常的にやること（TO DO）と、非日常的にやりたいこと（WISH)を一緒のアプリで管理して、日常のモチベーションやワクワクが増えたらいいなと思いアプリを作成しました。スマホで使用することも想定し、レスポンシブデザインにしました。
+                    </h6></li>
                   </ul>
                   <div class="row">
                     <div class="col-6"><a href="https://github.com/machgo19940122/wish_todolist" class="btn btn-border p-2" target="_blank">Git_hub</a></div>
