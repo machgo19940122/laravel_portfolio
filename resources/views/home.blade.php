@@ -200,55 +200,63 @@
             </div>
            </div> 
   
-          <div class="works_container" id="works">
-            <div class="m-5">
-              <h1><i class="fa-solid fa-person-digging"></i> WORKS</h1>
-            </div>
-              <div class="row m-5">
+          <div class="container" id="works">
+                <div class="m-5">
+                  <h1><i class="fa-solid fa-person-digging"></i> WORKS</h1>
+                </div>
+
+             <div class="row">
+
                 <div class="col-6">
                     <ul>
                       <h2>portfolio</h2>
                       <li>
-                        <div class="container border">
-                          <img src="" class="img-fluid" alt="">
+                        <div class="container-sm border">
+                        <img src="{{ asset('storage/スクリーンショット 2022-09-14 11.41.20.png') }}"" class="img-fluid" alt="">
                          </div>
                       </li>
   
                     </ul>
                       <div class="row">
-                            <div class="col-6"><a href="" class="btn btn-border p-2">Git_hub</a></div>
-                            <div class="col-6"><a href="http://127.0.0.1:8001/home#work" class="btn btn-border p-2">Web_site</a></div>
+                            <div class="col-6"><a href="https://github.com/machgo19940122/laravel_portfolio" class="btn btn-border p-2">Git_hub</a></div>
+                            <div class="col-6"><a href="https://portfolio-machikogondo.herokuapp.com/" class="btn btn-border p-2">Web_site</a></div>
                       </div>
                 </div>
   
                 <div class="col-6">
-                  <ul>
-                    <h2>wish and todo list</h2>
-                    <li>
-                      <div class="container border">
-                        <img src="" class="img-fluid" alt="">
-                       </div>
+                   <ul>
+                     <h2>Expense  Management System</h2>
+                     <li>
+                        <div class="container-sm border">
+                            <img src="{{ asset('/storage/スクリーンショット 2022-09-14 11.45.06.png') }}"" class="img-fluid" alt="">
+                        </div>
                     </li>
                   </ul>
+
                   <div class="row">
-                    <div class="col-6"><a href="" class="btn btn-border p-2">Git_hub</a></div>
-                    <div class="col-6"><a href="http://wish-and-todo.herokuapp.com/login" class="btn btn-border p-2">Web_site</a></div>
-              </div>
-                </div>
+                    <div class="col-6"><a href="https://github.com/machgo19940122/team95" class="btn btn-border p-2”>Git_hub</a></div>
+                    <div class="col-6"><a href="https://team95-expense-application.herokuapp.com/" class="btn btn-border p-2">Web_site</a>
+                  </div>
+
+            </div>
+
+            </div>
   
                 <div class="col-6 mt-5">
                   <ul>
-                    <h2>expense system</h2>
+                    <h2>wish and todo</h2>
                     <li>
-                      <div class="container border">
-                        <img src="" class="img-fluid" alt="">
+                      <div class="container-sm border">
+                      <img src="{{ asset('/storage/スクリーンショット 2022-09-14 11.46.28.png') }}" class="img-fluid" alt="">
                        </div>
                     </li>
                   </ul>
                   <div class="row">
-                    <div class="col-6"><a href="" class="btn btn-border p-2">Git_hub</a></div>
-                    <div class="col-6"><a href="" class="btn btn-border p-2">Web_site</a></div>
-                  </div>
+                    <div class="col-6"><a href="https://github.com/machgo19940122/wish_todolist" class="btn btn-border p-2">Git_hub</a></div>
+                    <div class="col-6"><a href="http://wish-and-todo.herokuapp.com/login" class="btn btn-border p-2">Web_site</a></div>
+              </div>
+  
+                  
                 </div>
   
               </div>
