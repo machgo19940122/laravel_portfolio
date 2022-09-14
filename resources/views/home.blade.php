@@ -306,9 +306,7 @@
         </div>
       </main>
   
-      <footer class="footer border pt-5 text-secondary
-
-">
+      <footer class="footer border pt-5 text-secondary">
       
             <h6>thanks...</h6>
         
