@@ -75,7 +75,7 @@
 
           <div class="pt-5">
                   <h1>it's nice to connect with you! </h1>
-                  <h6>machiko gondo</h6>
+                  <h3>-Machiko Gondo-</h3>
           </div>          
 
 
