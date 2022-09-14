@@ -218,8 +218,8 @@
   
                     </ul>
                       <div class="row">
-                            <div class="col-6"><a href="https://github.com/machgo19940122/laravel_portfolio" class="btn btn-border p-2">Git_hub</a></div>
-                            <div class="col-6"><a href="https://portfolio-machikogondo.herokuapp.com/" class="btn btn-border p-2">Web_site</a></div>
+                            <div class="col-6"><a href="https://github.com/machgo19940122/laravel_portfolio" class="btn btn-border p-2" target="_blank">Git_hub</a></div>
+                            <div class="col-6"><a href="https://portfolio-machikogondo.herokuapp.com/" class="btn btn-border p-2" target="_blank">Web_site</a></div>
                       </div>
                 </div>
   
@@ -234,8 +234,8 @@
                   </ul>
 
                   <div class="row">
-                    <div class="col-6"><a href="https://github.com/machgo19940122/team95" class="btn btn-border p-2">Git_hub</a></div>
-                    <div class="col-6"><a href="https://team95-expense-application.herokuapp.com/" class="btn btn-border p-2">Web_site</a>
+                    <div class="col-6"><a href="https://github.com/machgo19940122/team95" class="btn btn-border p-2" target="_blank">Git_hub</a></div>
+                    <div class="col-6"><a href="https://team95-expense-application.herokuapp.com/" class="btn btn-border p-2" target="_blank">Web_site</a>
                   </div>
 
             </div>
@@ -252,8 +252,8 @@
                     </li>
                   </ul>
                   <div class="row">
-                    <div class="col-6"><a href="https://github.com/machgo19940122/wish_todolist" class="btn btn-border p-2">Git_hub</a></div>
-                    <div class="col-6"><a href="http://wish-and-todo.herokuapp.com/login" class="btn btn-border p-2">Web_site</a></div>
+                    <div class="col-6"><a href="https://github.com/machgo19940122/wish_todolist" class="btn btn-border p-2" target="_blank">Git_hub</a></div>
+                    <div class="col-6"><a href="http://wish-and-todo.herokuapp.com/login" class="btn btn-border p-2" target="_blank">Web_site</a></div>
               </div>
   
                   
