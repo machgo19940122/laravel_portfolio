@@ -234,7 +234,7 @@
                   </ul>
 
                   <div class="row">
-                    <div class="col-6"><a href="https://github.com/machgo19940122/team95" class="btn btn-border p-2”>Git_hub</a></div>
+                    <div class="col-6"><a href="https://github.com/machgo19940122/team95" class="btn btn-border p-2">Git_hub</a></div>
                     <div class="col-6"><a href="https://team95-expense-application.herokuapp.com/" class="btn btn-border p-2">Web_site</a>
                   </div>
 
