@@ -46,7 +46,7 @@
           <a class="nav-link" href="#skill">skill</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#work">works</a>
+          <a class="nav-link" href="#works">works</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#contact">contact</a>
@@ -138,7 +138,7 @@
                     
               </div>
 
-              <div class="m-5">
+              <div class="m-5" id="skill">
               
                 <h3>-hobby-</h3>
             
@@ -161,7 +161,7 @@
   
   
   
-          <div class="container_skill" id="skill">
+          <div class="container_skill">
             <div class="m-5">
               <h1><i class="fa-solid fa-user-check"></i> SKILL</h1>
             </div>
