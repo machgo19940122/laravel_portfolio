@@ -336,6 +336,8 @@ mainのスクロール */
 } 
 
 
+
+
 #header:after{
   content: '';
   position:fixed;
@@ -348,8 +350,17 @@ mainのスクロール */
   /*背景画像設定*/
   background: url(/storage/0402FC2A-D2E1-43DB-B40B-FF2C1CDF50FF_1_105_c.jpeg) no-repeat center center;
   /* background-repeat:no-repeat; */
-  background-size:cover;
+  background-size:100%;
 }
+
+@media screen and (max-width:600px){
+  #header:after{
+    background: url(/storage/0402FC2A-D2E1-43DB-B40B-FF2C1CDF50FF_1_105_c.jpeg) center center;
+    background-size:100%;
+  }
+
+}
+
 
 #container{
   position: relative;
