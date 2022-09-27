@@ -59,6 +59,7 @@
   <!-- メインイメージ -->
      
       <header id="header">
+        
         <div class="scrolldown2"><span>Scroll</span></div>
       </header>
 
@@ -166,7 +167,7 @@
               <h1><i class="fa-solid fa-user-check"></i> SKILL</h1>
             </div>
              <div class="row m-5">
-               <div class="col-6">
+               <div class="col-md-6">
                   <ul>
                     <h2><i class="fa-solid fa-desktop mb-2"></i> front-end</h2>
                     <li><i class="fa-brands fa-html5"></i> HTML</li>
@@ -174,7 +175,7 @@
                   </ul>
                </div>
   
-              <div class="col-6">
+              <div class="col-md-6">
                   <ul>
                     <h2><i class="fa fa-database mb-2" aria-hidden="true"></i>
                        back-end</h2>
@@ -183,14 +184,14 @@
                   </ul>
               </div>
   
-              <div class="col-6">
+              <div class="col-md-6">
                   <ul>
                     <h2><i class="fa-solid fa-object-group mb-2"></i> design</h2>
                     <li><i class="fa-solid fa-paintbrush"></i> Adobe Illustrator</li>
                   </ul>
               </div>
   
-              <div class="col-6">
+              <div class="col-md-6">
                 <ul>
                   <h2><i class="fa-solid fa-language mb-2"></i> language</h2>
                   <li><i class="fa-solid fa-earth-asia"></i> Japanse</li>
@@ -207,7 +208,7 @@
 
              <div class="row">
 
-                <div class="col-6">
+                <div class="col-md-6 mt-3">
                     <ul>
                       <h2>portfolio</h2>
                      
@@ -227,7 +228,7 @@
                       </div>
                 </div>
   
-                <div class="col-6">
+                <div class="col-md-6 mt-3">
                    <ul>
                      <h2>Expense  Management System</h2>
 
@@ -249,7 +250,7 @@
 
             </div>
   
-                <div class="col-6 mt-5">
+                <div class="col-md-6 mt-3">
                   <ul>
                     <h2>wish and todo</h2>
 
