@@ -242,8 +242,8 @@
                   </ul>
 
                   <div class="row">
-                    <div class="col-6"><a href="https://github.com/machgo19940122/team95" class="btn btn-border p-2" target="_blank">Git_hub</a></div>
-                    <div class="col-6"><a href="https://team95-expense-application.herokuapp.com/" class="btn btn-border p-2" target="_blank">Web_site</a>
+                    <div class="col-6"><a href="https://github.com/machgo19940122/expense-application" class="btn btn-border p-2" target="_blank">Git_hub</a></div>
+                    <div class="col-6"><a href="https://expense-controll-application.herokuapp.com/login" class="btn btn-border p-2" target="_blank">Web_site</a>
                   </div>
 
             </div>
